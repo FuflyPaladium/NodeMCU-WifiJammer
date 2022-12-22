@@ -1,4 +1,5 @@
 I put here the deobfuscated code.
+You have the way to deobf the code in way.py
 
 # Node-MCU WIFI-JAMMER SETUP 
 <img src="SK.png"><br>
